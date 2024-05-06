@@ -1,7 +1,7 @@
 import './global.css';
 
 import GoogleAnalytics from '@/components/GoogleAnalytics/GoogleAnalytics';
-import OnchainProviders from '@/OnchainProviders';
+import OnchainProviders from '@/OnchainProvidersWithRK';
 import { initAnalytics } from '@/utils/analytics';
 import { inter } from './fonts';
 import type { Metadata } from 'next';
